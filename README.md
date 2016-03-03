@@ -1,0 +1,2 @@
+# teretere-translations
+Teretere translations
